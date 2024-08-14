@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+src/__init__.py
+src/meaPolygon.py
+src/meaPolygon.egg-info/PKG-INFO
+src/meaPolygon.egg-info/SOURCES.txt
+src/meaPolygon.egg-info/dependency_links.txt
+src/meaPolygon.egg-info/requires.txt
+src/meaPolygon.egg-info/top_level.txt
