@@ -7,15 +7,13 @@ The meaPolygon function calculates the area of polygons based on coordinates pro
 Additionally, this function is designed to work with text files formatted for semantic segmentation in the YOLO format. This means that it can accurately process polygon coordinates that are normalized relative to image dimensions, as commonly used in YOLO-based object detection and segmentation tasks.
 
 <p align="center">
-  <figure style="display: inline-block; text-align: center; margin-right: 20px;">
-    <img src="examples/data/readme1.png" width="500" />
-    <figcaption>Original</figcaption>
-  </figure>
-  <figure style="display: inline-block; text-align: center;">
-    <img src="examples/data/readme2.png" width="500" />
-    <figcaption>Yolo format Semantic Segmentation</figcaption>
-  </figure>
+  <img src="examples/data/readme1.png" width="300" alt="Original" />
+  <img src="examples/data/readme2.png" width="300" alt="Yolo format Semantic Segmentation" />
 </p>
+<p align="center">
+  <b>Original</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Yolo format Semantic Segmentation</b>
+</p>
+
 
 
 ## Installation
