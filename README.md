@@ -8,11 +8,11 @@ Additionally, this function is designed to work with text files formatted for se
 
 <p align="center">
   <figure style="display: inline-block; text-align: center; margin-right: 20px;">
-    <img src="examples/data/readme1.png" width="260" />
+    <img src="examples/data/readme1.png" width="500" />
     <figcaption>Original</figcaption>
   </figure>
   <figure style="display: inline-block; text-align: center;">
-    <img src="examples/data/readme2.png" width="260" />
+    <img src="examples/data/readme2.png" width="500" />
     <figcaption>Yolo format Semantic Segmentation</figcaption>
   </figure>
 </p>
