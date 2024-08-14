@@ -87,7 +87,7 @@ f you have any questions, issues, or suggestions, please feel free to contact us
 
 - BlueArch : https://bluearch.or.jp/
 - Main Project : https://github.com/BlueArch-Project
-- Email: aki2262hiro103kawano@gmail.com
+- Email: info@bluearch.or.jp
 - GitHub Issues: https://github.com/BlueArch-Project/PolygonAreaSegmentation/issues
 
 

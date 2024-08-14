@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: meaPolygon
-Version: 0.0.5
+Version: 0.0.7
 Summary: This repository provides a tool to calculate the area of polygons in semantic segmentation data, specifically for images in YOLO format. It enables the precise calculation of areas for objects defined as polygons within images. This tool is useful for researchers and developers in analyzing and evaluating segmentation tasks.
 Author: dokaben1003
 Author-email: aki2262hiro103kawano@gmail.com
@@ -10,7 +10,6 @@ Classifier: Operating System :: OS Independent
 Requires-Python: >=3.6
 Description-Content-Type: text/markdown
 License-File: LICENSE
-Requires-Dist: matplotlib==3.9.2
 
 # PolygonAreaSegmentation
 
@@ -65,7 +64,7 @@ Example:
 2. Create a Python Script
 
 ```python
-from my_module.polygon_area import meaPolygon
+from meaPolygon import meaPolygon
 
 # Specify the paths to the image file and the text file
 img_path = "examples/data/example.png"
@@ -101,7 +100,7 @@ f you have any questions, issues, or suggestions, please feel free to contact us
 
 - BlueArch : https://bluearch.or.jp/
 - Main Project : https://github.com/BlueArch-Project
-- Email: aki2262hiro103kawano@gmail.com
+- Email: info@bluearch.or.jp
 - GitHub Issues: https://github.com/BlueArch-Project/PolygonAreaSegmentation/issues
 
 
