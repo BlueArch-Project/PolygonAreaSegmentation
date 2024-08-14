@@ -51,7 +51,7 @@ Example:
 2. Create a Python Script
 
 ```python
-from my_module.polygon_area import meaPolygon
+from meaPolygon import meaPolygon
 
 # Specify the paths to the image file and the text file
 img_path = "examples/data/example.png"
